@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c41bafeb-0aea-4742-b69d-659f942b8697": {
+      "ProjectGuid": "c41bafeb-0aea-4742-b69d-659f942b8697",
+      "DisplayName": "Read_JSON_Arduino",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
